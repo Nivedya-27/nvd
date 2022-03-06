@@ -1,37 +1,3 @@
 ## Some stuff
 
-You can use the [editor on GitHub](https://github.com/Nivedya-27/nvd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nivedya-27/nvd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hi there! This is a collection of seemingly unrelated thoughts knit into a webpage by lazy fingers coerced by a mind that is attempting to seek salvation in writing. Joblessness (if there ever was a word like that) and boredom find their limits being stretched at space-time coordinates that would suggest a life devoid of these. They were right, it's all about perception - those short sighted along dimensions that the mind mustn't be find themselves bingeing on the perfect trio that boredom, confusion and loneliness make up. However dull things may seem, and however toxic some thoughts nag the so-called fragile construct within, a little exercise of the metacarpophalangeal joints (probably [that's](https://pubmed.ncbi.nlm.nih.gov/17052825/) what I mean) proves a worthwhile meditation that brings, or at least sends a formal invitation to, the celebrated feeling that joy is. Pointless conversations never felt this prudent to yours truly. See you on this very side and a few others too.
