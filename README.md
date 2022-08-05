@@ -5,3 +5,5 @@ Hi there! This is a collection of seemingly unrelated thoughts knit into a webpa
 [unexplainable maybe](Unexplainableinplainsight.md)
 
 [weak ends](weakends.md)
+
+[pacts with God](pactsWithGod.md)
