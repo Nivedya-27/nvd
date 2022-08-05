@@ -7,3 +7,5 @@ Hi there! This is a collection of seemingly unrelated thoughts knit into a webpa
 [weak ends](weakends.md)
 
 [pacts with God](PactsWithGod.md)
+
+[toast to waiting](ToastToWaiting.md)
