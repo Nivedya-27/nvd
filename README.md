@@ -6,4 +6,4 @@ Hi there! This is a collection of seemingly unrelated thoughts knit into a webpa
 
 [weak ends](weakends.md)
 
-[pacts with God](pactsWithGod.md)
+[pacts with God](pactsWithGod)
